@@ -6,4 +6,5 @@ Managed a project at SuperStore using Power BI, where I grouped customers based 
 2. Applied statistical techniques to identify distinct customer segments.
 3. Collaborated with the marketing team to integrate data-driven insights into strategy development.
 4. Conducted data-driven evaluations of marketing campaigns, enhancing decision-making processes and optimizing overall performance.
+
 • Tools & Technologies:- PowerBI, Excel
