@@ -4,7 +4,8 @@
 
 ### Interactive retail performance analysis & 30-day sales forecasting built on the Sample Superstore dataset
 
-![Power BI](https://img.shields.io/badge/Built%20with-Power%20BI-F2C811?logo=powerbi&logoColor=black)
+[![Power BI](https://img.shields.io/badge/Built%20with-Power%20BI-F2C811?logo=powerbi&logoColor=black)](https://github.com/JatinD18/SuperStore_Sales_Report-PowerBI/blob/main/dashboard/Super-Store%20Sales%20Dashboard.pbix)
+
 ![DAX](https://img.shields.io/badge/Measures-DAX-8A2BE2)
 ![Pages](https://img.shields.io/badge/Report%20Pages-2-blue)
 ![Dataset](https://img.shields.io/badge/Dataset-Sample%20Superstore-green)
